@@ -3,10 +3,10 @@
 ### Please give the repo a :star:
 
 ### Usage
-**:point_right: You can download these artifacts from [this page](https://github.com/YAKATeam/artifacts/releases/). It's always safe and ready to download.**
+**:point_right: You can download these artifacts from [this page](https://github.com/YakaTeam/repository/releases/). It's always safe and ready to download.**
 
 ### Contribute
-**:wave: You can contribute by push your patches / fixes about parsers (sources) in [this repository](https://github.com/YAKATeam/kotatsu-parsers).**
+**:wave: You can contribute by push your patches / fixes about parsers (sources) in [this repository](https://github.com/YakaTeam/kotatsu-parsers).**
 
 -----------------
 
